@@ -1,7 +1,4 @@
 hello,word.
-<<<<<<< HEAD
 The is word.
-test ipconfig /flushdns
-=======
-The is word.
->>>>>>> 527dc368bcb056510f090387b036529d8d34e2ea
+ipconfig /flushdns
+mastr.
