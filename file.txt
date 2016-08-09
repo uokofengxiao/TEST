@@ -1,6 +1,6 @@
 hello,word.
 The is word.
 ipconfig /flushdns
-mastr.
-pull push.
 new uokoer
+branch
+branch
